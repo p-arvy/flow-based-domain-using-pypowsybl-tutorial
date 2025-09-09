@@ -1,0 +1,7 @@
+jupyter
+pypowsybl
+pandas
+numpy
+scipy
+matplotlib>=3.7.0
+ipympl
